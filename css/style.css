@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+#container{
+    background-color: #E5E5E5;
+    margin-top: -20px;
+    height: 250vh;   
+}
+
+#container-wrapper {
+    background-color: white;
+    margin: 170px;
+    height: 180vh;
+    margin-top: 30px;
+}
+
+.heading {
+   margin: 20px;
+   display: flex;
+   justify-content: center;
+}
+.heading h1 {
+    margin-top: 80px;
+    font-size: 2rem;
+}
+
+.content img {
+    width: 80%;
+    height: 50vh;
+    margin-top: 23px;
+}
+
+.content {
+    margin-right: 20px;
+}
+
+.welcome {
+    display: flex;
+}
+
+.text {
+    width: 60%;
+    margin-left:-55px ;
+}
+.text h2 {
+    margin-left: 230px;
+    border-bottom: 4px solid #D89616;
+    
+}
+
+.text p {
+    margin-top: 60px;
+    font-size: 15px;
+}
+
+.upper-area {
+    margin-left: 50px;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    margin-left: -120px;
+}
+
+.title h2 {
+    margin-bottom: 60px;
+}
+
+.second {
+    margin-top: -40px;
+}
+
+.lower-area {
+    border: 1px solid grey;
+    width: 75%;
+    border-radius: 7px;
+    height: 80vh;
+    margin-top: 60px;
+    margin-left: 100px;
+}
+.contact {
+    margin-left: 80px;
+}
+
+.title2 h2 {
+    margin-top: 60px;
+}
+.first-name {
+    display: flex;
+    flex-direction: column;
+}
+.last-name {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.message {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.text1 {
+    margin-top: 10px;
+    height: 20px;
+}
+
+form {
+    width: 85%;
+}
+
+.text2 {
+    margin-top: 10px;
+    height: 20px;
+}
+
+.text3 {
+    margin-top: 10px;
+    height: 90px;
+}
+
+.button {
+    margin-top: 30px;
+    margin-left: 470px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: blue;
+    color: white;
+    border:none;
+    border-radius: 4px;
+}
+
+
